@@ -5,9 +5,16 @@ body {
 }
 nav {
   padding: 30px;
-    background-color: #fbefcc;
+    background-color: #bccad6;
     position: sticky;
     top: 0;
     text-shadow: 1px 1px 0 #444
     color: white;
+}
+header {
+  padding: 30px;
+  hight: 70%;
+  background-image: url('');
+  background-size: cover;
+  background-attachment: fixed;
 }
