@@ -3,5 +3,9 @@ body {
 }
 nav {
   padding: 30px;
-    backround-color: #fbefcc;
+    background-color: #fbefcc;
+    position: sticky;
+    top: 0;
+    text-shadow: 1px 1px 0 #444
+    color: white;
 }
