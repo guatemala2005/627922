@@ -40,11 +40,11 @@ article{
   padding: 30px;
     background-color: white;
     color: black;
-   grid-area: article
+   grid-area: article;
 }
 footer {
   padding: 30px;
     background-color:HEX: #cfe0e8;
       color: white;
-  grid-area: footer
+  grid-area: footer;
 }
